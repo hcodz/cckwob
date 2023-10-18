@@ -1,2 +1,2 @@
-$url = "https://github.com/hcodz/cckwob/raw/main/Golikev5.8.php";
+$url = "https://github.com/hcodz/cckwob/raw/main/GolikeV6.2.php";
 file_put_contents("updatelink.txt", $url);
