@@ -1,4 +1,4 @@
-curl -o /data/data/com.termux/files/usr/bin/kktool https://github.com/hcodz/cckwob/raw/main/kk.php
+curl -o /data/data/com.termux/files/usr/bin/kktool https://github.com/hcodz/cckwob/raw/main/kk
 chmod +x /data/data/com.termux/files/usr/bin/kktool
 echo
 echo
