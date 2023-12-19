@@ -19,6 +19,10 @@ apt update && apt upgrade
 
 pkg install git
 pkg install wget
+
+# Kiểm tra và cài đặt MariaDB nếu chưa có
+if ! pkg list-installed | grep -q mariadb; then
+    pkg install mariadb
 fi
 # Cài đặt và cấu hình các kho lưu trữ và gói cần thiết
 pkg i php
