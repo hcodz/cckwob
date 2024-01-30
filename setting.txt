@@ -1,0 +1,11 @@
+#######Bạn cần điền đầy đủ thông tin#######
+#######Điền thông tin vô hay dấu gạch đứng (||)
+###False là không còn True là có
+TaiKhoanBumx => ||,       #tên đăng nhập hoặc email
+MatKhauBumx => ||,          #mật khẩu tài khoản bumx
+AuthorizationBumx => ||,
+CookieFacebook => ||,      #Cookie acc facebook liên kết với bumx
+Delaylamnv => ||,         #Điền số duy nhất
+NhiemvuLikePage => |True|,   #True/False
+NhiemvuLikePost => |True|,  #True/False
+NhiemvuShare => |False|
