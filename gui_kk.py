@@ -393,4 +393,3 @@ class Ui_AUTO_TWITTER_GOLIKE(object):
         self.nv_like.setText(_translate("AUTO_TWITTER_GOLIKE", "LIKE"))
         self.page.setTabText(self.page.indexOf(self.widget), _translate("AUTO_TWITTER_GOLIKE", "Setting Twitter"))
         self.actionNext.setText(_translate("AUTO_TWITTER_GOLIKE", "Next"))
-
