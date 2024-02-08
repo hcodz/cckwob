@@ -351,11 +351,3 @@ class Ui_AUTO_TWITTER_GOLIKE(object):
         self.actionNext.setText(_translate("AUTO_TWITTER_GOLIKE", "Next"))
 
 
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    AUTO_TWITTER_GOLIKE = QtWidgets.QMainWindow()
-    ui = Ui_AUTO_TWITTER_GOLIKE()
-    ui.setupUi(AUTO_TWITTER_GOLIKE)
-    AUTO_TWITTER_GOLIKE.show()
-    sys.exit(app.exec())
